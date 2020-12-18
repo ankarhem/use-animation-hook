@@ -1,7 +1,7 @@
 # useAnimation
 
 A hook to generate styles for animations using animation frames.
-This project is inspired by, and extended from, the work done [here](https://github.com/franciscop/use-animation-frame).
+This project was done to see if [svelte](https://svelte.dev/)-like animations would be feasible in react. And somewhat based on the work done [here](https://github.com/franciscop/use-animation-frame).
 
 ## Example
 
