@@ -1,5 +1,5 @@
 {
-  "name": "use-animation",
+  "name": "use-animation-hook",
   "version": "0.1.0",
   "main": "index.min.js",
   "scripts": {
@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankarhem/useanimation.git"
+    "url": "git+https://github.com/ankarhem/use-animation-hook.git"
   },
   "keywords": [],
   "author": "Jakob Ankarhem <jakob.ankarhem@outlook.com>",
   "license": "MIT",
-  "homepage": "https://github.com/ankarhem/useanimation#readme",
+  "homepage": "https://github.com/ankarhem/use-animation-hook#readme",
   "dependencies": {},
   "peerDependencies": {
     "react": "^16.8.0",

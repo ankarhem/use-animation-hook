@@ -5,6 +5,8 @@ This project was done to see if [svelte](https://svelte.dev/)-like animations wo
 
 ## Example
 
+`t` is a value normalized value between 0 and 1 indicating the progression of the animation.
+
 ```jsx
 const Example = () => {
   const { styles, triggerAnimation } = useAnimation(() => {
